@@ -12,7 +12,7 @@ export const FriendsListItem = styled.li`
   background-color: #fff;
   &:hover {
     transform: scale(1.2);
-    background-color: #ffe4e1;
+    background-color: #b0e0e6;
   }
 `;
 
@@ -33,6 +33,5 @@ export const AvatarItem = styled.img`
 export const FriendName = styled.p`
   font-size: 30px;
   font-weight: 600;
-  color: #008080;
-  text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);
+  color: #000;
 `;

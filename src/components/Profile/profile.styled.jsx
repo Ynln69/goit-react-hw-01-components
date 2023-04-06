@@ -47,7 +47,7 @@ export const UserLocation = styled.p`
 
 export const StatsList = styled.ul`
   display: flex;
-  background-color: #f0e68c;
+  background-color: #87ceeb;
   border-radius: 0 0 5px 5px;
 `;
 
